@@ -1,4 +1,6 @@
 
+**This repo has moved to https://github.com/jxnblk/gatsby-themes**
+
 # gatsby-theme-blank
 
 **WIP** A bare-bones, unstyled MDX blog theme for Gatsby
